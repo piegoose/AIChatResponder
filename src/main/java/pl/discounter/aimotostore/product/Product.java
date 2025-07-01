@@ -1,4 +1,4 @@
-package pl.discounter.aimotostore.Product;
+package pl.discounter.aimotostore.product;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
