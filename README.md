@@ -10,9 +10,10 @@ This is a Spring Boot backend application developed as part of a master's thesis
 - **Spring Boot**
 - **Spring Web (REST API)**
 - **Spring Data JPA**
-- **H2 Database (in-memory)**
-- **OpenCSV** – for parsing CSV files
+- **H2 Database (in-memory) < - upgraded to Postgres**
 - **Lombok** – for boilerplate reduction
 - **Maven** – for project management
+- **CRUD** - for managment private database
+- **AI requesting** <- in comming STUFFing method for sepcific AI responding
 - *(Planned: OpenAI API, Dialogflow, Elasticsearch, Vue.js for frontend)*
 
